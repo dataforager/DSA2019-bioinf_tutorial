@@ -1,0 +1,22 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/dmachuve/Dropbox/DSA/DSA2019/bioinfoDSA/DSA2019-bioinf_tutorial/tutorial
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=b4035e5c325b13ced839e14946c755cd80f4a49df2072a48
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=b4035e5c325b13ced839e14946c755cd80f4a49df2072a48
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Kernel started: 39de138a-933c-4ccc-9e21-4d0f8a888660
+[NotebookApp | INFO] 302 GET /notebooks/img/bioinf.png (127.0.0.1) 2.82ms
+[NotebookApp | INFO] 302 GET /notebooks/img/pipelinernaseq.svg (127.0.0.1) 1.73ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 39de138a-933c-4ccc-9e21-4d0f8a888660
+[NotebookApp | INFO] 302 GET /notebooks/data/Zika/fastQC_output/SRR3191544_1_fastqc.html (127.0.0.1) 1.16ms
+[NotebookApp | INFO] Starting buffering for 39de138a-933c-4ccc-9e21-4d0f8a888660:84a7c0b1d05247da9b3b7d7ae8a92aa3
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 39de138a-933c-4ccc-9e21-4d0f8a888660
